@@ -1,4 +1,4 @@
-![alt text](/logo/AlleAktien GmbH Logo Platzhalter.png)
+![alt text](https://raw.githubusercontent.com/alleaktien/alleaktien-branding/main/logo/AlleAktien%20GmbH%20Logo%20Platzhalter.png)
 
 # Branding Kit der AlleAktien GmbH
 
